@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "title": "dsa",
+            "price": 100,
+            "description": "dsa",
+            "image": "dsa",
+            "id": 1
+        },
+        {
+            "title": "Emir",
+            "price": 200,
+            "description": "fghjkl",
+            "image": "https://static.remove.bg/remove-bg-web/6ad52d54336ad62d58e7bd1317d40fb98e377ad5/assets/start-1abfb4fe2980eabfbbaaa4365a0692539f7cd2725f324f904565a9a744f8e214.jpg",
+            "id": 2
+        },
+        {
+            "title": "blabla",
+            "price": 300,
+            "description": "34567fgh",
+            "image": "vpages: ",
+            "id": 3
+        }
+    ]
+}
